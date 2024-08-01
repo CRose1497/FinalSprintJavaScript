@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "age": 30,
+        "city": "Mount Pearl",
+        "email": "alice@example.com",
+        "phone": "+1234567890",
+        "address": {
+            "street": "123 Elm St",
+            "zipcode": "A1A 1A1"
+        },
+        "hobbies": ["reading", "hiking", "biking"]
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "age": 25,
+        "city": "St. John's",
+        "email": "bob@example.com",
+        "phone": "+0987654321",
+        "address": {
+            "street": "456 Oak St",
+            "zipcode": "B2B 2B2"
+        },
+        "hobbies": ["cooking", "gaming", "swimming"]
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "age": 35,
+        "city": "Gander",
+        "email": "charlie@example.com",
+        "phone": "+1122334455",
+        "address": {
+            "street": "789 Pine St",
+            "zipcode": "C3C 3C3"
+        },
+        "hobbies": ["photography", "traveling", "gardening"]
+    },
+    {
+        "id": 4,
+        "name": "David",
+        "age": 40,
+        "city": "Clarenville",
+        "email": "david@example.com",
+        "phone": "+2233445566",
+        "address": {
+            "street": "321 Birch St",
+            "zipcode": "D4D 4D4"
+        },
+        "hobbies": ["fishing", "reading", "hiking"]
+    },
+    {
+        "id": 5,
+        "name": "Eve",
+        "age": 28,
+        "city": "Corner Brook",
+        "email": "eve@example.com",
+        "phone": "+3344556677",
+        "address": {
+            "street": "654 Maple St",
+            "zipcode": "E5E 5E5"
+        },
+        "hobbies": ["baking", "running", "writing"]
+    }
+]
